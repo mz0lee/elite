@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Who are you?"
-AuthUserfile "/nfsmnt/hosting1_1/2/0/20e44fed-3735-4c12-882c-ee25df810b3b/mzolee.com/sub/elite/.htpasswd"
-Require valid-user
