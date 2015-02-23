@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item>
+<nazov>Prestigio ION® PC Atom 230 (1,6G) NV9400 2GB 160GB HDMI GL čierny</nazov>
+<kod>SKION_PC_002B</kod>
+<vyrobca>Prestigo</vyrobca>
+<cena>239</cena>
+<sklad>5</sklad>
+<procesor>AtomTM Processor 230 1.6GHz</procesor>
+<grafika>Integrovaná grafika NVIDIA9400 (s plnou podporou DirectX 10 a prehráváním Full HD videa)</grafika>
+<pevny_disk>160GB SATA, 2,5" </pevny_disk>
+<pamat>SODIMM DDR2 2GB Ostatné: LAN Realtek</pamat>
+</item>
+<item>
+<nazov>Lenovo ThinkCentre Edge 93 SFF 10AQ0-03N</nazov>
+<kod>LTCE_PC_001B</kod>
+<vyrobca>Lenovo</vyrobca>
+<cena>399.00</cena>
+<sklad>3</sklad>
+<procesor>Intel Core i3 4130 Haswell</procesor>
+<grafika>Intel HD graphics 4400</grafika>
+<pevny_disk>HDD 500GB 7200 otáčok</pevny_disk>
+<pamat>4GB DDR3</pamat>
+</item>
+<item>
+<nazov>Alza GameBox GTX750 W8.1</nazov>
+<kod>AGB_PC_001</kod>
+<vyrobca>Alza</vyrobca>
+<cena>600.17</cena>
+<sklad>6</sklad>
+<procesor>Intel Core i3-4160 Haswell Refresh 3.6Ghz</procesor>
+<grafika>Nvidia GeForce GTX750 2GB</grafika>
+<pevny_disk>HDD 1000GB</pevny_disk>
+<pamat>4GB DDR3</pamat>
+</item>
+<item>
+<nazov>Alza Little Monster Anniversary</nazov>
+<kod>ALM_PC_001</kod>
+<vyrobca>Alza</vyrobca>
+<cena>1200.68</cena>
+<sklad>2</sklad>
+<procesor>Intel Core i5 4690K Haswell Refresh OC 4.2GHz</procesor>
+<grafika>NVIDIA GeForce GTX760 2GB</grafika>
+<pevny_disk>SSD 120GB, HDD 2000GB</pevny_disk>
+<pamat>16GB DDR3</pamat>
+</item>
+<item>
+<nazov>Lenovo IdeaCentre Q190</nazov>
+<kod>LIC_PC_003</kod>
+<vyrobca>Lenovo</vyrobca>
+<cena>211.91</cena>
+<sklad>7</sklad>
+<procesor>Intel Celeron 1017 Ivy Bridge</procesor>
+<grafika>Intel HD Graphics</grafika>
+<pevny_disk>HDD 500GB 5400 otáčok</pevny_disk>
+<pamat>4GB DDR3</pamat>
+</item>
+<item>
+<nazov>HP Pavilion 500-306nc</nazov>
+<kod>HPP_PC_056</kod>
+<vyrobca>HP</vyrobca>
+<cena>812.11</cena>
+<sklad>6</sklad>
+<procesor>Intel Core i7 4790S Haswell</procesor>
+<grafika>NVIDIA GeForce GTX 745 4 GB GDDR3</grafika>
+<pevny_disk>HDD 3 TB 7200 otáčok + 16 GB cache na zrýchlenie behu OS</pevny_disk>
+<pamat>8 GB DDR3</pamat>
+</item>
+<item>
+<nazov>ASUS X555LA-XX061H</nazov>
+<kod>ASUS_NB_123</kod>
+<vyrobca>ASUS</vyrobca>
+<cena>395.00</cena>
+<sklad>10</sklad>
+<procesor>Intel Core i3 4010U Haswell</procesor>
+<grafika>Intel HD Graphics 4400</grafika>
+<pevny_disk>HDD 500GB</pevny_disk>
+<pamat>4GB</pamat>
+</item>
+<item>
+<nazov>Fujitsu Lifebook A512</nazov>
+<kod>FLB_NB_043</kod>
+<vyrobca>Fujitsu</vyrobca>
+<cena>271.61</cena>
+<sklad>8</sklad>
+<procesor>Intel Pentium 2020M Ivy Bridge</procesor>
+<grafika>Intel HD Graphics</grafika>
+<pevny_disk>HDD 500GB 5400 otáček</pevny_disk>
+<pamat>4GB DDR3</pamat>
+</item>
+</items>
